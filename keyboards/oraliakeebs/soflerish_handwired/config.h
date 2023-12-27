@@ -3,8 +3,6 @@
 
 #pragma once
 
-#include "config_common.h"
-
 /* Key Matrix size */
 #define MATRIX_ROWS 12
 #define MATRIX_COLS 7
