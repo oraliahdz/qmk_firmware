@@ -28,3 +28,9 @@
 // Communication between sides
 #define SOFT_SERIAL_PIN D2
 
+// Auto Shift
+#define AUTO_SHIFT_TIMEOUT 250
+
+#define QUICK_TAP_TERM 0
+#define PERMISSIVE_HOLD
+#define TAPPING_TERM 200

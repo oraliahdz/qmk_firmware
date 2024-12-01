@@ -1,6 +1,6 @@
 {
     "manufacturer": "oraliahdz",
-    "keyboard_name": "oralia/soflerish_handwired",
+    "keyboard_name": "Soflerish",
     "maintainer": "oraliahdz",
     "bootloader": "caterina",
     "diode_direction": "COL2ROW",
@@ -20,8 +20,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x0001",
+        "vid": "0x6F4B"
     },
     "layouts": {
         "LAYOUT": {
@@ -78,7 +78,7 @@
                 {"label":"_", "x":14, "y":3.5}, 
                 {"label":"Alt", "x":10.5, "y":4.125}, 
                 {"label":"Delete", "x":11.5, "y":4.125}, 
-                {"label":"Win/\u2318", "x":2.5, "y":4.13}, 
+                {"label":"Win", "x":2.5, "y":4.13}, 
                 {"label":"Ctrl", "x":3.5, "y":4.13}, 
                 {"label":"Vol -", "x":1.5, "y":4.25}, 
                 {"label":"Space", "x":4.5, "y":4.25}, 
